@@ -29,6 +29,9 @@ How to View
 
 Open the `.pbix` file in Power BI Desktop to explore all visualizations. The dashboard is interactive — allowing users to filter by city, food type, or time period, and view performance metrics in real time.
 
-About the Author
+# About the Author
 
-I’m Medhansh Medishetty, passionate about using data analytics to solve real-world business problems. This project is part of my Data Analytics Portfolio. You can explore more at github.com/MedhanshMedishetty
+I'm Medhansh Medishetty, a data analytics enthusiast focused on solving business problems through data insights.  
+This project is part of my data portfolio. You can explore more at:  
+GitHub: github.com/MedhanshMedishetty  
+LinkedIn: linkedin.com/in/medhanshmedishetty
